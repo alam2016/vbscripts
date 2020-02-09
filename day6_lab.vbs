@@ -15,9 +15,8 @@ Select Case strCreditCard
 		MsgBox "Unknown Credit Card "&date
 End Select 
 
-
 function add(num1, num2)
-	MsgBox num1 + num2
+	MsgBox cInt(num1) + cInt(num2)
 end function
 
 function subtraction(num1, num2)
