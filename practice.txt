@@ -1,0 +1,4 @@
+write a program to find the factorial of a given number
+write a program to find the monthly salary of a person who makes 100K
+write a program to find how much tips ( usually 18% )should be given if dinner cost is 250 dollars. 
+suppose lucky number is 777, ask user to pick number and system will keep asking to enter new number until user enter lucky number.
